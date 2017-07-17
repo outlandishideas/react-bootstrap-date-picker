@@ -1,5 +1,5 @@
 {
-  "name": "outlandish-react-bootstrap-date-picker",
+  "name": "react-bootstrap-date-picker-outlandish",
   "keywords": [
     "react",
     "react-component",
@@ -11,7 +11,7 @@
     "picker"
   ],
   "main": "lib/index.js",
-  "version": "2.0.2",
+  "version": "2.0.1",
   "description": "React-Bootstrap based date picker.",
   "directories": {
     "test": "test"
