@@ -62,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pushtell/react-bootstrap-date-picker.git"
+    "url": "git+https://github.com/outlandishideas/react-bootstrap-date-picker.git"
   },
   "author": "",
   "license": "MIT",
