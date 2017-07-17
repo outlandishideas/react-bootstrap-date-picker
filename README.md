@@ -1,5 +1,7 @@
 # React-Bootstrap based date picker.
 
+Forked from v2.0.0 of [React-Bootstrap date picker](https://www.npmjs.com/package/react-bootstrap-date-picker)
+
 [![NPM Version](https://badge.fury.io/js/react-bootstrap-date-picker.svg)](https://www.npmjs.com/package/react-bootstrap-date-picker)
 [![Circle CI](https://circleci.com/gh/pushtell/react-bootstrap-date-picker.svg?style=shield)](https://circleci.com/gh/pushtell/react-bootstrap-date-picker)
 [![Coverage Status](https://coveralls.io/repos/pushtell/react-bootstrap-date-picker/badge.svg?branch=master&service=github)](https://coveralls.io/github/pushtell/react-bootstrap-date-picker?branch=master)
